@@ -3,7 +3,7 @@
 ### Pedro Enrique Barrera 20171020057
 ### Felipe corredor 20171020056
 
-###El ejecutable del juego es el archivo Demojuego.py 
+### El ejecutable del juego es el archivo Demojuego.py 
 
 
 
