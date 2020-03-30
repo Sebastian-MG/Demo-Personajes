@@ -7,13 +7,13 @@
 
 
 
-Modulo Clases juego: Se crean dos clases:
+#### Modulo Clases juego: Se crean dos clases:
 
 -Clase Escudo: Posee los atributos Material y Sprites con sus respectivos metodos getter y setter
 
 -Clase Personaje:  Posee los atributos Tipo,Escudo,Sprites y Ruido con sus respectivos metodos getter y setter.
 
-Modulo Builder: 
+##### Modulo Builder: 
 
 -Se crea una clase padre llamada Builder_Sprites con atributos estaticos, Sprites y Plano .
 
@@ -25,6 +25,7 @@ Modulo Builder:
 
 -Build_Sprite_Personaje hereda a Build_Sprites y sobreescribe el  método Build_Sprite haciendo sus propias dos direcciones para el personaje, tambien sobreescribe el método Build_Plano haciendo que sea el Plano 1 para la clase, posee un metodo constructor en el que se settea el tipo de personaje a crear.
 
+![Builder](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Builder.png)
 
 Módulo Factory:
 
