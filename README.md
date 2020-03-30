@@ -17,18 +17,18 @@ Modulo Builder:
 
 -Se crea una clase padre llamada Builder_Sprites con atributos estaticos, Sprites y Plano .
 
-- Se crea la clase padre Builder_Ruido con sus metodos sobreescribibles, y un hijo para la clase que sobreescribe el metodo de su Padre para llenar el atributo sonidos que hereda de la clase padre Builder_Ruido.
+-Se crea la clase padre Builder_Ruido con sus metodos sobreescribibles, y un hijo para la clase que sobreescribe el metodo de su Padre para llenar el atributo sonidos que hereda de la clase padre Builder_Ruido.
 
 -Se crean los setters y getters respectivos para Plano y solo el get para Sprites, los setters no ya que  no se modifican los Sprites dentro de las clases hijas.
 
 -Se crea el Metodo Build_Sprite y Build_Plano que sera sobreescrito por los hijos.
 
-- Build_Sprite_Personaje hereda a Build_Sprites y sobreescribe el  método Build_Sprite haciendo sus propias dos direcciones para el personaje, tambien sobreescribe el método Build_Plano haciendo que sea el Plano 1 para la clase, posee un metodo constructor en el que se settea el tipo de personaje a crear.
+-Build_Sprite_Personaje hereda a Build_Sprites y sobreescribe el  método Build_Sprite haciendo sus propias dos direcciones para el personaje, tambien sobreescribe el método Build_Plano haciendo que sea el Plano 1 para la clase, posee un metodo constructor en el que se settea el tipo de personaje a crear.
 
 
 Módulo Factory:
 
-- Se crea la clase Padre Absrtract Factory con tres clases hijas
+-Se crea la clase Padre Absrtract Factory con tres clases hijas
 
 
 
