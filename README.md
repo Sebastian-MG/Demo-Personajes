@@ -25,7 +25,7 @@ Modulo Builder:
 
 -Build_Sprite_Personaje hereda a Build_Sprites y sobreescribe el  método Build_Sprite haciendo sus propias dos direcciones para el personaje, tambien sobreescribe el método Build_Plano haciendo que sea el Plano 1 para la clase, posee un metodo constructor en el que se settea el tipo de personaje a crear.
 
-![Settings Window](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Builder.png)
+(https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Builder.png)
 
 Módulo Factory:
 
