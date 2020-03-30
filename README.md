@@ -1,10 +1,16 @@
-# Demo-Personajes
-### Juan Sebastian Mancera Gaitan 20171020047 
-### Pedro Enrique Barrera 20171020057
-### Felipe corredor 20171020056
+### Integrantes 
+Juan Sebastian Mancera Gaitán 20171020047
 
-## El ejecutable del juego es el archivo Demojuego.py o tambien DemoOrda.py mientras se definia el proyecto.
-## Juego realizado en Python 3 junto a las siguientes librerias:
+ Luis Felipe Corredor 20171020056
+ 
+ Pedro Enrique Barrera 20171020057
+ 
+
+
+### Ejecucion y Librerias
+
+ El ejecutable del juego es el archivo Launcher.py
+ Juego realizado en Python 3 junto a las siguientes librerias:
 
 copy => Prototype
 
@@ -25,6 +31,11 @@ functools => Launcher
 math => Launcher
 
 random => ClasesJuego, Launcher, Game, Decorator, Composite, Pantalla
+
+Version 2:  Disponible aquí: https://github.com/Sebastian-MG/Demo-Personajes-v2
+
+
+### Patrones De Diseño
 
 ##### Modulo Clases juego: 
 
