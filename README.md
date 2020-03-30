@@ -3,8 +3,8 @@
 ### Pedro Enrique Barrera 20171020057
 ### Felipe corredor 20171020056
 
-### El ejecutable del juego es el archivo Demojuego.py o tambien DemoOrda.py mientras se definia el proyecto.
-### Juego realizado en Python 3 junto a las siguientes librerias:
+## El ejecutable del juego es el archivo Demojuego.py o tambien DemoOrda.py mientras se definia el proyecto.
+## Juego realizado en Python 3 junto a las siguientes librerias:
 
 copy => Prototype
 
