@@ -84,4 +84,7 @@ Se crea la clase PersJugable que hereda de Sprite de pygame y se le introduce un
 ![Demojuego](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/DemoJUego.png)
 
 
+![General](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Diagrama_Clase1.png)
+
+
 
