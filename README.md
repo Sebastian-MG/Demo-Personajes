@@ -54,7 +54,7 @@ En este modulo se construyen las dos clases base para el resto de la version: Cl
 
 -Se crea la clase padre Prototype que contiene un personaje Padre vacio y un metodo de clonado, se crean tres clases hijas que completan el atributo Personaje heredado con lo que devuelva una Fabrica del módulo Factory luego se crea un getter para el personaje heredado y se sobreescribe el método copy para realizar una copia profunda (deep copy) del personaje heredado.
 
--Se crea un Objeto Factoria el cual es un objetyo abstracto que contiene todos los prototipos del módulo, se crean los getters únicos para cada uno de los prototipos en el objeto factoria.
+-Se crea un Objeto Factoria el cual es un objeto estático que contiene todos los prototipos del módulo, se crean los getters únicos para cada uno de los prototipos en el objeto factoria.
 
 
 ![Proto](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Proy.png)
