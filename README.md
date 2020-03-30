@@ -49,7 +49,7 @@ Se crea la clase PersJugable que hereda de Sprite de pygame y se le introduce un
 
 -Se crea metodo main en el cual se inicializa una ventana de Pygame, se traen los objetos Prototype del Object Factory, se incializa un personaje jugable con uno de los objetos de factoria y se crea un array de personajes aleatorios del Object Factory, se realiza el dibujado en pantalla de este y se programan eventos para que el  usuario pueda desplazar de izquierda a derecha al objeto jugable y que reproduzca sonidos y que los demas objetos del array lo persigan dibujandose esto en pantalla. 
 
-![Demojuego](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Clase-Juego.jpg)
+![Demojuego](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/DemoJUego.png)
 
 
 
