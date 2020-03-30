@@ -7,13 +7,13 @@
 
 
 
-Modulo Clases juego: Se crean dos clases:
+#### Modulo Clases juego: Se crean dos clases:
 
 -Clase Escudo: Posee los atributos Material y Sprites con sus respectivos metodos getter y setter
 
 -Clase Personaje:  Posee los atributos Tipo,Escudo,Sprites y Ruido con sus respectivos metodos getter y setter.
 
-Modulo Builder: 
+##### Modulo Builder: 
 
 -Se crea una clase padre llamada Builder_Sprites con atributos estaticos, Sprites y Plano .
 
