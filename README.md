@@ -34,21 +34,18 @@
 -Se crea la clase Padre Absrtract Factory con tres clases hijas
 
 
-![Factory](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Clase-Juego.jpg)
+![Factory](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/fact.png)
 
-##### Módulo DemoJuego:
-
-
-![Demojuego](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Clase-Juego.jpg)
-
-#### Módulo DemoOrda:
+##### Módulo DemoJuego y  DemoOrda:
 
 
+![Demojuego](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Clase-Juego.jpg
 
-![DemoOr](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Clase-Juego.jpg)
+
+![DemoOr](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/DemoJUego.png)
 #### Módulo Prototype
 
 
 
 
-![Proto](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Clase-Juego.jpg)
+![Proto](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Proy.png)
