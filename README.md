@@ -10,7 +10,7 @@ Pygame
 GC
 Os
 tkinter
-Pil
+Pillow
 enum
 copy
 functools
