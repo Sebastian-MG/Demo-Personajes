@@ -6,16 +6,25 @@
 ### El ejecutable del juego es el archivo Demojuego.py o tambien DemoOrda.py mientras se definia el proyecto.
 ### Juego realizado en Python 3 junto a las siguientes librerias:
 
-Pygame
-GC
-Os
-tkinter
-Pillow
-enum
-copy
-functools
-math
-random
+copy => Prototype
+
+pygame => ClasesJuego, Launcher, Game, Decorator, Composite, Pantalla
+
+gc => Launcher, Game, Pantalla, StrategyJuego
+
+os => Pantalla, Game
+
+tkinter => Launcher
+
+PIL => LAuncher
+
+enum=> Tipos
+
+functools => Launcher
+
+math => Launcher
+
+random => ClasesJuego, Launcher, Game, Decorator, Composite, Pantalla
 
 ##### Modulo Clases juego: 
 
