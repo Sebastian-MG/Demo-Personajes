@@ -7,11 +7,13 @@
 
 
 
-#### Modulo Clases juego: Se crean dos clases:
+##### Modulo Clases juego: Se crean dos clases:
 
 -Clase Escudo: Posee los atributos Material y Sprites con sus respectivos metodos getter y setter
 
 -Clase Personaje:  Posee los atributos Tipo,Escudo,Sprites y Ruido con sus respectivos metodos getter y setter.
+
+![Cljuego](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Clase-Juego.jpg)
 
 ##### Modulo Builder: 
 
@@ -27,7 +29,7 @@
 
 ![Builder](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Builder.png)
 
-Módulo Factory:
+##### Módulo Factory:
 
 -Se crea la clase Padre Absrtract Factory con tres clases hijas
 
