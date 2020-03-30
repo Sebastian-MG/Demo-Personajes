@@ -18,7 +18,7 @@ En este modulo se construyen las dos clases base para el resto de la version: Cl
 
 -Se crean las dos clases padre: Builder_Sprite y Builder_Ruido cada una con sus métodos sobreescribibles, se crean dos hijos del builder Sprite, cada uno sobreescribe el método  para la creacion del constructor  de diferente manera acudiendo  a diferentes direcciones en el proyecto.
 
--Se crea un hijo para Bilder_Ruido que sobreescribe el metodo de su padre, para llenar el atributo Sonidos que hereda de la clase Build_Ruido.
+-Se crea un hijo para Builder_Ruido que sobreescribe el metodo de su padre, para llenar el atributo Sonidos que hereda de la clase Build_Ruido.
 
 ![Builder](https://github.com/Sebastian-MG/Demo-Personajes/blob/master/UML/Builder.png)
 
